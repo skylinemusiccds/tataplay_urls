@@ -353,7 +353,7 @@ MPD= https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.
 
 id="78"  logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png"   group-title="Sports",   Star Sports 1 HD
 License= https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000077
-MPD= https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+MPD= https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
 
 id="235"  logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png"   group-title="Sports",   Star Sports 2 HD
 License= https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000250
@@ -361,7 +361,7 @@ MPD= https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.
 
 id="24"  logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png"   group-title="Sports",   Star Sports 1 Hindi HD
 License= https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020
-MPD= https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+MPD= https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
 
 id="246"  logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG"   group-title="Sports",   Star Sports Select 1 HD
 License= https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000260
