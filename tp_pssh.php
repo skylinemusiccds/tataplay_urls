@@ -68,7 +68,8 @@ function extractVideoUrlFromManifest($manifestContent, $baseVideoUrl, $userAgent
                 if (isset($representation->SegmentTemplate)) {
                     $media = (string)$representation->SegmentTemplate['media'];
                     $startNumber = isset($representation->SegmentTemplate['startNumber']) ? (int)$representation->SegmentTemplate['startNumber'] : 0;
-                    $modifiedStartNumber = $startNumber + 1870;
+                    $repeatCount = isset($representation->SegmentTemplate->SegmentTimeline->S['r']) ? (int)$representation->SegmentTemplate->SegmentTimeline->S['r'] : 0;
+                    $modifiedStartNumber = $startNumber + $repeatCount;
                     $mediaFileName = str_replace(['$RepresentationID$', '$Number$'], [(string)$representation['id'], $modifiedStartNumber], $media);
                     $videoUrl = $baseVideoUrl . '/dash/' . $mediaFileName;
 
@@ -97,7 +98,8 @@ function extractVideoUrlFromManifest($manifestContent, $baseVideoUrl, $userAgent
                         $psshEnd = strpos($hexVideoContent, "0000", $pos + strlen($psshMarker));
 
                         if ($psshEnd !== false) {
-                            $psshHex = substr($hexVideoContent, $pos, $psshEnd - $pos - 0);
+                            $psshHex = substr($hexVideoContent, $pos, $psshEnd - $pos - 12);
+                            $psshHex = str_replace("000000387073736800000000edef8ba979d64acea3c827dcd51d21ed00000018", "000000327073736800000000edef8ba979d64acea3c827dcd51d21ed00000012", $psshHex);
 
                             return base64_encode(hex2bin($psshHex));
                         } else {
