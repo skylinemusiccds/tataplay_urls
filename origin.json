@@ -1,232 +1,5 @@
 [
     {
-        "id": 840,
-        "channel_name": "Shirdi Sai Baba",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SSBA_BoxCover-v7/SSBA_BoxCover.png",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SSBA_Poster-v7/SSBA_Poster.png",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000000001",
-            "1000001038",
-            "1000001035",
-            "1000001274"
-        ],
-        "channel_genre": [
-            "Devotional",
-            "Spiritual"
-        ],
-        "channelNumber": "2038",
-        "dvbTriplet": "d2.11.6D9",
-        "hdChannel": false,
-        "restartTv": false,
-        "isCloudDvr": false,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Darshan-Transparent.png",
-        "provider": "Tata Communications Ltd.",
-        "logoVersion": 2,
-        "streamData": {
-            "MPD=": "https://delta45tatasky.akamaized.net/out/i/555.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000975",
-            "dashWidewinePlayUrl": "https://delta45tatasky.akamaized.net/out/i/554.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000975",
-            "fairplayUrl": "https://delta45tatasky.akamaized.net/out/i/557.m3u8"
-        }
-    },
-    {
-        "id": 842,
-        "channel_name": "Somnath Temple",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STG_BoxCover-v5/STG_BoxCover.png",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STG_Poster-v5/STG_Poster.png",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000000001",
-            "1000001274",
-            "1000000103",
-            "1000000933"
-        ],
-        "channel_genre": [
-            "Spiritual"
-        ],
-        "channelNumber": "2035",
-        "dvbTriplet": "DummyA6",
-        "hdChannel": false,
-        "restartTv": false,
-        "isCloudDvr": false,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Darshan-Transparent.png",
-        "provider": "Tata Communications Ltd.",
-        "logoVersion": 2,
-        "streamData": {
-            "MPD=": "https://delta45tatasky.akamaized.net/out/i/723.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000976",
-            "dashWidewinePlayUrl": "https://delta45tatasky.akamaized.net/out/i/722.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000976",
-            "fairplayUrl": "https://delta45tatasky.akamaized.net/out/i/720.m3u8"
-        }
-    },
-    {
-        "id": 121,
-        "channel_name": "Tata Play Fitness",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-403-j5jr3sz4-v2/imageContent-403-j5jr3sz4-m2.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-404-j5jr3sz4-v2/imageContent-404-j5jr3sz4-m2.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "English",
-            "Telugu",
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000001623",
-            "1000000001",
-            "1000000002",
-            "1000000401",
-            "1000002181"
-        ],
-        "channel_genre": [
-            "Lifestyle",
-            "Specials"
-        ],
-        "channelNumber": "110",
-        "dvbTriplet": "d2.1F.C30",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": false,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Fitness-Transparent.png",
-        "provider": "Tata Sky Service",
-        "logoVersion": 2,
-        "streamData": {
-            "MPD=": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000129",
-            "dashWidewinePlayUrl": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000129",
-            "fairplayUrl": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/index.m3u8"
-        }
-    },
-    {
-        "id": 618,
-        "channel_name": "Tata Play Beauty",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12280-ja02jlp4-v2/imageContent-12280-ja02jlp4-m2.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12281-ja02jlp4-v2/imageContent-12281-ja02jlp4-m2.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "English",
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000000001",
-            "1000000883",
-            "1000000002",
-            "1000002181"
-        ],
-        "channel_genre": [
-            "Lifestyle",
-            "Specials"
-        ],
-        "channelNumber": "111",
-        "dvbTriplet": "d2.20.C8E",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": false,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Beauty-Transparent.png",
-        "provider": "Tata Sky Service",
-        "logoVersion": 2,
-        "streamData": {
-            "MPD=": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000642",
-            "dashWidewinePlayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000642",
-            "fairplayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/index.m3u8"
-        }
-    },
-    {
-        "id": 641,
-        "channel_name": "Tata Play Cooking",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23493-jf92iycg-v3/imageContent-23493-jf92iycg-m4.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23494-jf92iycg-v3/imageContent-23494-jf92iycg-m4.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000001502",
-            "1000002181",
-            "1000000002",
-            "1000000001",
-            "1000000065"
-        ],
-        "channel_genre": [
-            "Food",
-            "Lifestyle",
-            "Specials"
-        ],
-        "channelNumber": "112",
-        "dvbTriplet": "d2.22.D77",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": false,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata Play Cooking Transperency.png",
-        "provider": "Tata Sky Service",
-        "logoVersion": 3,
-        "streamData": {
-            "MPD=": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000676",
-            "dashWidewinePlayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000676",
-            "fairplayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/index.m3u8"
-        }
-    },
-    {
-        "id": 959,
-        "channel_name": "Tata Play Romance",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67689-kwmxxugo-v2/imageContent-67689-kwmxxugo-m3.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67693-kwmxxxjs-v2/imageContent-67693-kwmxxxjs-m3.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67692-kwmxxw08-v2/imageContent-67692-kwmxxw08-m3.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000002181",
-            "1000000001",
-            "1000002008",
-            "1000000002"
-        ],
-        "channel_genre": [
-            "Movies",
-            "Entertainment"
-        ],
-        "channelNumber": "113",
-        "dvbTriplet": "d2.21.CE5",
-        "hdChannel": false,
-        "restartTv": false,
-        "isCloudDvr": false,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Romance-Transparent.png",
-        "provider": "Tata Sky Service",
-        "logoVersion": 2,
-        "streamData": {
-            "MPD=": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001111",
-            "dashWidewinePlayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001111",
-            "fairplayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/index.m3u8"
-        }
-    },
-    {
         "id": 8,
         "channel_name": "STAR Plus HD",
         "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25308-jhrhfs34-v1/imageContent-25308-jhrhfs34-m1.png",
@@ -298,6 +71,149 @@
             "dashWidewinePlayUrl": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/master.mpd",
             "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000007",
             "fairplayUrl": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/index.m3u8"
+        }
+    },
+    {
+        "id": 63,
+        "channel_name": "Zee TV HD",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11074-j95e7qa0-v1/imageContent-11074-j95e7qa0-m1.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11075-j95e7u4w-v1/imageContent-11075-j95e7u4w-m1.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000000369",
+            "1000001089",
+            "1000001125",
+            "1000002225",
+            "1000001268",
+            "1000001523",
+            "1000001227",
+            "1000000803",
+            "1000000795",
+            "1000002224",
+            "1000001263",
+            "1000001226",
+            "1000001360",
+            "1000001091",
+            "1000001131",
+            "1000001387",
+            "1000001537",
+            "1000001359",
+            "1000001404",
+            "1000002355",
+            "1000002221",
+            "1000001345",
+            "1000000349",
+            "1000001895",
+            "1000001542",
+            "1000000001",
+            "1000001557",
+            "1000001035",
+            "1000001225",
+            "1000000199",
+            "1000001894",
+            "1000002398",
+            "1000001556",
+            "1000002397",
+            "1000001342",
+            "1000001405",
+            "1000001388",
+            "1000000033",
+            "1000001403"
+        ],
+        "channel_genre": [
+            "Entertainment",
+            "HD"
+        ],
+        "channelNumber": "141",
+        "dvbTriplet": "d2.18.989",
+        "hdChannel": true,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png",
+        "provider": "Zee",
+        "logoVersion": 2,
+        "streamData": {
+            "MPD=": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000065",
+            "dashWidewinePlayUrl": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000065",
+            "fairplayUrl": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/index.m3u8"
+        }
+    },
+    {
+        "id": 557,
+        "channel_name": "Zee TV",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12075-j9ob4gm0-v2/imageContent-12075-j9ob4gm0-m2.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12076-j9ob4gm0-v2/imageContent-12076-j9ob4gm0-m2.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000001388",
+            "1000001557",
+            "1000001345",
+            "1000002225",
+            "1000002221",
+            "1000000803",
+            "1000001268",
+            "1000000369",
+            "1000001360",
+            "1000000001",
+            "1000001227",
+            "1000001542",
+            "1000000033",
+            "1000002397",
+            "1000001125",
+            "1000001405",
+            "1000000349",
+            "1000001131",
+            "1000002355",
+            "1000000199",
+            "1000001226",
+            "1000001225",
+            "1000002224",
+            "1000001556",
+            "1000001403",
+            "1000002398",
+            "1000001523",
+            "1000001359",
+            "1000001894",
+            "1000001342",
+            "1000001263",
+            "1000002222",
+            "1000001091",
+            "1000001387",
+            "1000001035",
+            "1000001404",
+            "1000001537",
+            "1000001089",
+            "1000001895"
+        ],
+        "channel_genre": [
+            "Entertainment"
+        ],
+        "channelNumber": "143",
+        "dvbTriplet": "d2.13.774",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV.png",
+        "provider": "Zee",
+        "logoVersion": 1,
+        "streamData": {
+            "MPD=": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000586",
+            "dashWidewinePlayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000586",
+            "fairplayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/index.m3u8"
         }
     },
     {
@@ -821,149 +737,6 @@
         }
     },
     {
-        "id": 63,
-        "channel_name": "Zee TV HD",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11074-j95e7qa0-v1/imageContent-11074-j95e7qa0-m1.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11075-j95e7u4w-v1/imageContent-11075-j95e7u4w-m1.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000000369",
-            "1000001089",
-            "1000001125",
-            "1000002225",
-            "1000001268",
-            "1000001523",
-            "1000001227",
-            "1000000803",
-            "1000000795",
-            "1000002224",
-            "1000001263",
-            "1000001226",
-            "1000001360",
-            "1000001091",
-            "1000001131",
-            "1000001387",
-            "1000001537",
-            "1000001359",
-            "1000001404",
-            "1000002355",
-            "1000002221",
-            "1000001345",
-            "1000000349",
-            "1000001895",
-            "1000001542",
-            "1000000001",
-            "1000001557",
-            "1000001035",
-            "1000001225",
-            "1000000199",
-            "1000001894",
-            "1000002398",
-            "1000001556",
-            "1000002397",
-            "1000001342",
-            "1000001405",
-            "1000001388",
-            "1000000033",
-            "1000001403"
-        ],
-        "channel_genre": [
-            "Entertainment",
-            "HD"
-        ],
-        "channelNumber": "141",
-        "dvbTriplet": "d2.18.989",
-        "hdChannel": true,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png",
-        "provider": "Zee",
-        "logoVersion": 2,
-        "streamData": {
-            "MPD=": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000065",
-            "dashWidewinePlayUrl": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000065",
-            "fairplayUrl": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/index.m3u8"
-        }
-    },
-    {
-        "id": 557,
-        "channel_name": "Zee TV",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12075-j9ob4gm0-v2/imageContent-12075-j9ob4gm0-m2.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12076-j9ob4gm0-v2/imageContent-12076-j9ob4gm0-m2.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000001388",
-            "1000001557",
-            "1000001345",
-            "1000002225",
-            "1000002221",
-            "1000000803",
-            "1000001268",
-            "1000000369",
-            "1000001360",
-            "1000000001",
-            "1000001227",
-            "1000001542",
-            "1000000033",
-            "1000002397",
-            "1000001125",
-            "1000001405",
-            "1000000349",
-            "1000001131",
-            "1000002355",
-            "1000000199",
-            "1000001226",
-            "1000001225",
-            "1000002224",
-            "1000001556",
-            "1000001403",
-            "1000002398",
-            "1000001523",
-            "1000001359",
-            "1000001894",
-            "1000001342",
-            "1000001263",
-            "1000002222",
-            "1000001091",
-            "1000001387",
-            "1000001035",
-            "1000001404",
-            "1000001537",
-            "1000001089",
-            "1000001895"
-        ],
-        "channel_genre": [
-            "Entertainment"
-        ],
-        "channelNumber": "143",
-        "dvbTriplet": "d2.13.774",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV.png",
-        "provider": "Zee",
-        "logoVersion": 1,
-        "streamData": {
-            "MPD=": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000586",
-            "dashWidewinePlayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000586",
-            "fairplayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/index.m3u8"
-        }
-    },
-    {
         "id": 811,
         "channel_name": "Tata Play Adbhut Kahaniyan",
         "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52367-k7e829a0-v5/imageContent-52367-k7e829a0-m5.jpg",
@@ -1183,6 +956,336 @@
             "dashWidewinePlayUrl": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/master.mpd",
             "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000574",
             "fairplayUrl": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/index.m3u8"
+        }
+    },
+    {
+        "id": 177,
+        "channel_name": "ABP News",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-757-j5m13014-v2/imageContent-757-j5m13014-m3.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STNW_Poster-v3/STNW_Poster.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000001035",
+            "1000000239",
+            "1000001368",
+            "1000000001",
+            "1000000077"
+        ],
+        "channel_genre": [
+            "News"
+        ],
+        "channelNumber": "504",
+        "dvbTriplet": "d2.16.8CC",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ABP NWS.png",
+        "provider": "ABP News Network (ANN)",
+        "logoVersion": 2,
+        "streamData": {
+            "MPD=": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000194",
+            "dashWidewinePlayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000194",
+            "fairplayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/index.m3u8"
+        }
+    },
+    {
+        "id": 783,
+        "channel_name": "Tata Play Seniors",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47645-k2lbp2q8-v2/imageContent-47645-k2lbp2q8-m2.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47646-k2lbp2q8-v2/imageContent-47646-k2lbp2q8-m2.png",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000002181",
+            "1000001540",
+            "1000000001",
+            "1000000002"
+        ],
+        "channel_genre": [
+            "Lifestyle",
+            "Specials"
+        ],
+        "channelNumber": "505",
+        "dvbTriplet": "d2.17.90F",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Seniors-Transparent.png",
+        "provider": "Tata Sky Service",
+        "logoVersion": 2,
+        "streamData": {
+            "MPD=": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000866",
+            "dashWidewinePlayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000866",
+            "fairplayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/index.m3u8"
+        }
+    },
+    {
+        "id": 179,
+        "channel_name": "NDTV India",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-481-j5jx9x48-v1/imageContent-481-j5jx9x48-m1.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-482-j5jx9x48-v1/imageContent-482-j5jx9x48-m1.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000001443",
+            "1000001801",
+            "1000001716",
+            "1000001091",
+            "1000001473",
+            "1000000993",
+            "1000001527",
+            "1000001225",
+            "1000001407",
+            "1000000001",
+            "1000001051",
+            "1000001549",
+            "1000001386",
+            "1000001226",
+            "1000001227",
+            "1000000077",
+            "1000000226",
+            "1000001842",
+            "1000001345",
+            "1000001893",
+            "1000001444",
+            "1000001528",
+            "1000001474",
+            "1000000051",
+            "1000001342",
+            "1000001035",
+            "1000001008",
+            "1000001795",
+            "1000001089",
+            "1000001800",
+            "1000001523"
+        ],
+        "channel_genre": [
+            "News"
+        ],
+        "channelNumber": "506",
+        "dvbTriplet": "d2.13.790",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NDTV India.png",
+        "provider": "NDTV",
+        "logoVersion": 1,
+        "streamData": {
+            "MPD=": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000155",
+            "dashWidewinePlayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000155",
+            "fairplayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/index.m3u8"
+        }
+    },
+    {
+        "id": 689,
+        "channel_name": "Aaj Tak HD",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34650-jpmey8gw-v1/imageContent-34650-jpmey8gw-m1.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34651-jpmey8gw-v1/imageContent-34651-jpmey8gw-m1.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000000350",
+            "1000001484",
+            "1000001226",
+            "1000001443",
+            "1000000108",
+            "1000001432",
+            "1000000077",
+            "1000001388",
+            "1000001523",
+            "1000001345",
+            "1000001549",
+            "1000001342",
+            "1000001035",
+            "1000002072",
+            "1000001016",
+            "1000001442",
+            "1000001444",
+            "1000001280",
+            "1000001225",
+            "1000001902",
+            "1000000033",
+            "1000001089",
+            "1000000001",
+            "1000001227",
+            "1000002553",
+            "1000001051",
+            "1000001893",
+            "1000001033",
+            "1000001091",
+            "1000002386",
+            "1000001550",
+            "1000001387"
+        ],
+        "channel_genre": [
+            "News",
+            "HD"
+        ],
+        "channelNumber": "508",
+        "dvbTriplet": "d2.13.78F",
+        "hdChannel": true,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aaj Tak HD.png",
+        "provider": "TV Today",
+        "logoVersion": 6,
+        "streamData": {
+            "MPD=": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000732",
+            "dashWidewinePlayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000732",
+            "fairplayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/index.m3u8"
+        }
+    },
+    {
+        "id": 153,
+        "channel_name": "Aaj Tak",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATNW_BoxCover-v2/ATNW_BoxCover.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATNW_Poster-v4/ATNW_Poster.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000001388",
+            "1000001444",
+            "1000001442",
+            "1000001226",
+            "1000001227",
+            "1000001387",
+            "1000000033",
+            "1000001091",
+            "1000001902",
+            "1000001549",
+            "1000000077",
+            "1000001016",
+            "1000000350",
+            "1000000001",
+            "1000001550",
+            "1000002072",
+            "1000001225",
+            "1000001089",
+            "1000001484",
+            "1000001523",
+            "1000001280",
+            "1000001893",
+            "1000002386",
+            "1000001342",
+            "1000001443",
+            "1000001051",
+            "1000001432",
+            "1000001033",
+            "1000000108",
+            "1000002553",
+            "1000001035",
+            "1000001345"
+        ],
+        "channel_genre": [
+            "News"
+        ],
+        "channelNumber": "509",
+        "dvbTriplet": "d2.16.8C6",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aaj Tak.png",
+        "provider": "TV Today",
+        "logoVersion": 3,
+        "streamData": {
+            "MPD=": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
+            "dashWidewinePlayUrl": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
+            "fairplayUrl": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/index.m3u8"
+        }
+    },
+    {
+        "id": 259,
+        "channel_name": "Zee News",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11112-j95iqmh4-v1/imageContent-11112-j95iqmh4-m1.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11113-j95iroa8-v1/imageContent-11113-j95iroa8-m1.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000002072",
+            "1000001211",
+            "1000001624",
+            "1000001259",
+            "1000001822",
+            "1000001125",
+            "1000002291",
+            "1000001265",
+            "1000001412",
+            "1000000250",
+            "1000001386",
+            "1000002207",
+            "1000001434",
+            "1000000077",
+            "1000001268",
+            "1000001035",
+            "1000001091",
+            "1000001872",
+            "1000000001",
+            "1000001893",
+            "1000001263",
+            "1000001407",
+            "1000001258",
+            "1000001266",
+            "1000001146",
+            "1000001523",
+            "1000000051",
+            "1000001051",
+            "1000001227",
+            "1000001089",
+            "1000001131",
+            "1000001753"
+        ],
+        "channel_genre": [
+            "News"
+        ],
+        "channelNumber": "511",
+        "dvbTriplet": "d2.18.96D",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee News.png",
+        "provider": "Zee",
+        "logoVersion": 1,
+        "streamData": {
+            "MPD=": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000273",
+            "dashWidewinePlayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000273",
+            "fairplayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/index.m3u8"
         }
     },
     {
@@ -1956,6 +2059,233 @@
             "dashWidewinePlayUrl": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/master.mpd",
             "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000196",
             "fairplayUrl": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/index.m3u8"
+        }
+    },
+    {
+        "id": 840,
+        "channel_name": "Shirdi Sai Baba",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SSBA_BoxCover-v7/SSBA_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SSBA_Poster-v7/SSBA_Poster.png",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000000001",
+            "1000001038",
+            "1000001035",
+            "1000001274"
+        ],
+        "channel_genre": [
+            "Devotional",
+            "Spiritual"
+        ],
+        "channelNumber": "2038",
+        "dvbTriplet": "d2.11.6D9",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Darshan-Transparent.png",
+        "provider": "Tata Communications Ltd.",
+        "logoVersion": 2,
+        "streamData": {
+            "MPD=": "https://delta45tatasky.akamaized.net/out/i/555.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000975",
+            "dashWidewinePlayUrl": "https://delta45tatasky.akamaized.net/out/i/554.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000975",
+            "fairplayUrl": "https://delta45tatasky.akamaized.net/out/i/557.m3u8"
+        }
+    },
+    {
+        "id": 842,
+        "channel_name": "Somnath Temple",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STG_BoxCover-v5/STG_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STG_Poster-v5/STG_Poster.png",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000000001",
+            "1000001274",
+            "1000000103",
+            "1000000933"
+        ],
+        "channel_genre": [
+            "Spiritual"
+        ],
+        "channelNumber": "2035",
+        "dvbTriplet": "DummyA6",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Darshan-Transparent.png",
+        "provider": "Tata Communications Ltd.",
+        "logoVersion": 2,
+        "streamData": {
+            "MPD=": "https://delta45tatasky.akamaized.net/out/i/723.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000976",
+            "dashWidewinePlayUrl": "https://delta45tatasky.akamaized.net/out/i/722.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000976",
+            "fairplayUrl": "https://delta45tatasky.akamaized.net/out/i/720.m3u8"
+        }
+    },
+    {
+        "id": 121,
+        "channel_name": "Tata Play Fitness",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-403-j5jr3sz4-v2/imageContent-403-j5jr3sz4-m2.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-404-j5jr3sz4-v2/imageContent-404-j5jr3sz4-m2.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-405-j5jr3sz4-v2/imageContent-405-j5jr3sz4-m2.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "English",
+            "Telugu",
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000001623",
+            "1000000001",
+            "1000000002",
+            "1000000401",
+            "1000002181"
+        ],
+        "channel_genre": [
+            "Lifestyle",
+            "Specials"
+        ],
+        "channelNumber": "110",
+        "dvbTriplet": "d2.1F.C30",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Fitness-Transparent.png",
+        "provider": "Tata Sky Service",
+        "logoVersion": 2,
+        "streamData": {
+            "MPD=": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000129",
+            "dashWidewinePlayUrl": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000129",
+            "fairplayUrl": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/index.m3u8"
+        }
+    },
+    {
+        "id": 618,
+        "channel_name": "Tata Play Beauty",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12280-ja02jlp4-v2/imageContent-12280-ja02jlp4-m2.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12281-ja02jlp4-v2/imageContent-12281-ja02jlp4-m2.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "English",
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000000001",
+            "1000000883",
+            "1000000002",
+            "1000002181"
+        ],
+        "channel_genre": [
+            "Lifestyle",
+            "Specials"
+        ],
+        "channelNumber": "111",
+        "dvbTriplet": "d2.20.C8E",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Beauty-Transparent.png",
+        "provider": "Tata Sky Service",
+        "logoVersion": 2,
+        "streamData": {
+            "MPD=": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000642",
+            "dashWidewinePlayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000642",
+            "fairplayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/index.m3u8"
+        }
+    },
+    {
+        "id": 641,
+        "channel_name": "Tata Play Cooking",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23493-jf92iycg-v3/imageContent-23493-jf92iycg-m4.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23494-jf92iycg-v3/imageContent-23494-jf92iycg-m4.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000001502",
+            "1000002181",
+            "1000000002",
+            "1000000001",
+            "1000000065"
+        ],
+        "channel_genre": [
+            "Food",
+            "Lifestyle",
+            "Specials"
+        ],
+        "channelNumber": "112",
+        "dvbTriplet": "d2.22.D77",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata Play Cooking Transperency.png",
+        "provider": "Tata Sky Service",
+        "logoVersion": 3,
+        "streamData": {
+            "MPD=": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000676",
+            "dashWidewinePlayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000676",
+            "fairplayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/index.m3u8"
+        }
+    },
+    {
+        "id": 959,
+        "channel_name": "Tata Play Romance",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67689-kwmxxugo-v2/imageContent-67689-kwmxxugo-m3.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67693-kwmxxxjs-v2/imageContent-67693-kwmxxxjs-m3.jpg",
+        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67692-kwmxxw08-v2/imageContent-67692-kwmxxw08-m3.png",
+        "contentType": "LIVE",
+        "subchannel_names": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "enchannel_namements": [
+            "1000002181",
+            "1000000001",
+            "1000002008",
+            "1000000002"
+        ],
+        "channel_genre": [
+            "Movies",
+            "Entertainment"
+        ],
+        "channelNumber": "113",
+        "dvbTriplet": "d2.21.CE5",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Romance-Transparent.png",
+        "provider": "Tata Sky Service",
+        "logoVersion": 2,
+        "streamData": {
+            "MPD=": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/master.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001111",
+            "dashWidewinePlayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/master.mpd",
+            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001111",
+            "fairplayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/index.m3u8"
         }
     },
     {
@@ -6373,336 +6703,6 @@
             "dashWidewinePlayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/master.mpd",
             "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000337",
             "fairplayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_517/output/index.m3u8"
-        }
-    },
-    {
-        "id": 177,
-        "channel_name": "ABP News",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-757-j5m13014-v2/imageContent-757-j5m13014-m3.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STNW_Poster-v3/STNW_Poster.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-759-j5m13014-v2/imageContent-759-j5m13014-m3.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000001035",
-            "1000000239",
-            "1000001368",
-            "1000000001",
-            "1000000077"
-        ],
-        "channel_genre": [
-            "News"
-        ],
-        "channelNumber": "504",
-        "dvbTriplet": "d2.16.8CC",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ABP NWS.png",
-        "provider": "ABP News Network (ANN)",
-        "logoVersion": 2,
-        "streamData": {
-            "MPD=": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000194",
-            "dashWidewinePlayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000194",
-            "fairplayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_165/output/index.m3u8"
-        }
-    },
-    {
-        "id": 783,
-        "channel_name": "Tata Play Seniors",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47645-k2lbp2q8-v2/imageContent-47645-k2lbp2q8-m2.png",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47646-k2lbp2q8-v2/imageContent-47646-k2lbp2q8-m2.png",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000002181",
-            "1000001540",
-            "1000000001",
-            "1000000002"
-        ],
-        "channel_genre": [
-            "Lifestyle",
-            "Specials"
-        ],
-        "channelNumber": "505",
-        "dvbTriplet": "d2.17.90F",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": false,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Seniors-Transparent.png",
-        "provider": "Tata Sky Service",
-        "logoVersion": 2,
-        "streamData": {
-            "MPD=": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000866",
-            "dashWidewinePlayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000866",
-            "fairplayUrl": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/index.m3u8"
-        }
-    },
-    {
-        "id": 179,
-        "channel_name": "NDTV India",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-481-j5jx9x48-v1/imageContent-481-j5jx9x48-m1.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-482-j5jx9x48-v1/imageContent-482-j5jx9x48-m1.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000001443",
-            "1000001801",
-            "1000001716",
-            "1000001091",
-            "1000001473",
-            "1000000993",
-            "1000001527",
-            "1000001225",
-            "1000001407",
-            "1000000001",
-            "1000001051",
-            "1000001549",
-            "1000001386",
-            "1000001226",
-            "1000001227",
-            "1000000077",
-            "1000000226",
-            "1000001842",
-            "1000001345",
-            "1000001893",
-            "1000001444",
-            "1000001528",
-            "1000001474",
-            "1000000051",
-            "1000001342",
-            "1000001035",
-            "1000001008",
-            "1000001795",
-            "1000001089",
-            "1000001800",
-            "1000001523"
-        ],
-        "channel_genre": [
-            "News"
-        ],
-        "channelNumber": "506",
-        "dvbTriplet": "d2.13.790",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NDTV India.png",
-        "provider": "NDTV",
-        "logoVersion": 1,
-        "streamData": {
-            "MPD=": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000155",
-            "dashWidewinePlayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000155",
-            "fairplayUrl": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/index.m3u8"
-        }
-    },
-    {
-        "id": 689,
-        "channel_name": "Aaj Tak HD",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34650-jpmey8gw-v1/imageContent-34650-jpmey8gw-m1.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34651-jpmey8gw-v1/imageContent-34651-jpmey8gw-m1.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000000350",
-            "1000001484",
-            "1000001226",
-            "1000001443",
-            "1000000108",
-            "1000001432",
-            "1000000077",
-            "1000001388",
-            "1000001523",
-            "1000001345",
-            "1000001549",
-            "1000001342",
-            "1000001035",
-            "1000002072",
-            "1000001016",
-            "1000001442",
-            "1000001444",
-            "1000001280",
-            "1000001225",
-            "1000001902",
-            "1000000033",
-            "1000001089",
-            "1000000001",
-            "1000001227",
-            "1000002553",
-            "1000001051",
-            "1000001893",
-            "1000001033",
-            "1000001091",
-            "1000002386",
-            "1000001550",
-            "1000001387"
-        ],
-        "channel_genre": [
-            "News",
-            "HD"
-        ],
-        "channelNumber": "508",
-        "dvbTriplet": "d2.13.78F",
-        "hdChannel": true,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aaj Tak HD.png",
-        "provider": "TV Today",
-        "logoVersion": 6,
-        "streamData": {
-            "MPD=": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000732",
-            "dashWidewinePlayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000732",
-            "fairplayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/index.m3u8"
-        }
-    },
-    {
-        "id": 153,
-        "channel_name": "Aaj Tak",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATNW_BoxCover-v2/ATNW_BoxCover.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATNW_Poster-v4/ATNW_Poster.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000001388",
-            "1000001444",
-            "1000001442",
-            "1000001226",
-            "1000001227",
-            "1000001387",
-            "1000000033",
-            "1000001091",
-            "1000001902",
-            "1000001549",
-            "1000000077",
-            "1000001016",
-            "1000000350",
-            "1000000001",
-            "1000001550",
-            "1000002072",
-            "1000001225",
-            "1000001089",
-            "1000001484",
-            "1000001523",
-            "1000001280",
-            "1000001893",
-            "1000002386",
-            "1000001342",
-            "1000001443",
-            "1000001051",
-            "1000001432",
-            "1000001033",
-            "1000000108",
-            "1000002553",
-            "1000001035",
-            "1000001345"
-        ],
-        "channel_genre": [
-            "News"
-        ],
-        "channelNumber": "509",
-        "dvbTriplet": "d2.16.8C6",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aaj Tak.png",
-        "provider": "TV Today",
-        "logoVersion": 3,
-        "streamData": {
-            "MPD=": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
-            "dashWidewinePlayUrl": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
-            "fairplayUrl": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/index.m3u8"
-        }
-    },
-    {
-        "id": 259,
-        "channel_name": "Zee News",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11112-j95iqmh4-v1/imageContent-11112-j95iqmh4-m1.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11113-j95iroa8-v1/imageContent-11113-j95iroa8-m1.jpg",
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png",
-        "contentType": "LIVE",
-        "subchannel_names": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "enchannel_namements": [
-            "1000002072",
-            "1000001211",
-            "1000001624",
-            "1000001259",
-            "1000001822",
-            "1000001125",
-            "1000002291",
-            "1000001265",
-            "1000001412",
-            "1000000250",
-            "1000001386",
-            "1000002207",
-            "1000001434",
-            "1000000077",
-            "1000001268",
-            "1000001035",
-            "1000001091",
-            "1000001872",
-            "1000000001",
-            "1000001893",
-            "1000001263",
-            "1000001407",
-            "1000001258",
-            "1000001266",
-            "1000001146",
-            "1000001523",
-            "1000000051",
-            "1000001051",
-            "1000001227",
-            "1000001089",
-            "1000001131",
-            "1000001753"
-        ],
-        "channel_genre": [
-            "News"
-        ],
-        "channelNumber": "511",
-        "dvbTriplet": "d2.18.96D",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee News.png",
-        "provider": "Zee",
-        "logoVersion": 1,
-        "streamData": {
-            "MPD=": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/master.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000273",
-            "dashWidewinePlayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/master.mpd",
-            "license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000273",
-            "fairplayUrl": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/index.m3u8"
         }
     },
     {
